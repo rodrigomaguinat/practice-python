@@ -1,0 +1,32 @@
+[
+  {
+    "código": 1,
+    "isbn": "978-3-16-148410-0",
+    "título": "Don Quijote de la Mancha",
+    "autor": "Miguel de Cervantes",
+    "editorial": "Alfaguara",
+    "año": 1605,
+    "categoría": "Novela",
+    "cantidad": 5
+  },
+  {
+    "código": 2,
+    "isbn": "978-0-451-52493-5",
+    "título": "Cien años de soledad",
+    "autor": "Gabriel García Márquez",
+    "editorial": "Editorial Sudamericana",
+    "año": 1967,
+    "categoría": "Realismo Mágico",
+    "cantidad": 3
+  },
+  {
+    "código": 3,
+    "isbn": "978-84-206-5932-9",
+    "título": "Crimen y castigo",
+    "autor": "Fiódor Dostoyevski",
+    "editorial": "Alianza Editorial",
+    "año": 1866,
+    "categoría": "Novela Psicológica",
+    "cantidad": 2
+  }
+]
